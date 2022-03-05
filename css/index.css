@@ -1,0 +1,91 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image:url(https://media.istockphoto.com/vectors/poker-table-background-in-green-color-vector-id1218355494?k=20&m=1218355494&s=612x612&w=0&h=7izk2bQU_LDnKLLLbwAolAo4kwUmcwr_mo8_Vr7955w=);
+    background-size: cover;
+    background-attachment: fixed;
+    color:white !important;  
+    text-align:center !important;
+}
+h1{
+    color: rgb(238, 175, 16);
+    font-size: x-large;
+    margin-top: 50px;
+}
+.center{
+    text-decoration-style: bold;
+    padding: 10px 0px;   
+}
+p{
+    font-style: italic;
+    font-size: medium;
+    font-size: large;
+}
+#content{
+    padding: 50px;
+    position: relative;
+    margin-top: 70px;
+    
+}
+#message-el{
+    font-size: 60px;
+    font-weight: bold;
+}
+#cards-el,#sum-el{
+    font-size: 40px;
+    font-weight: bold;
+}
+button{
+    background-color: rgb(230, 171, 23);
+    color: #085c2e;
+    width: auto;
+    border:none;
+    border-radius: 5px !important;
+    padding: 18px  50px;
+    font-weight: bold;
+    font-size: 30px  !important;
+    text-align: center;
+    /* position:relative; */
+}
+.card-im{
+    position: absolute;
+    margin: 20px 20px;
+    display:inline-block;
+    background-color: white;
+
+}
+.cardalign{
+    border-radius: 10px ;
+    border:none;
+}
+#cardstyle1{
+    height: 450px;
+    width: 300px;
+    border-radius: 10px;
+}
+#cardstyle2{
+    height: 450px;
+    width: 300px;
+    border-radius: 10px;
+}
+.card-im1{
+    margin: 175px 110px;
+   
+}
+.card-im2{
+    margin: 175px 25px 175px 45px;
+}
+#button2{
+    margin-top: 8px;
+    width: auto;
+    padding: 15px 60px;
+}
+.name{
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+}
+.cash{
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+}
