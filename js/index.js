@@ -67,7 +67,7 @@ messageEl.textContent = message;
 }
 
 const person ={
-    name: "Rajnivas",
+    name: "Player",
     coins: 250
 };
 
